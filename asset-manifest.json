@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/react-loading-page/static/css/main.22968547.css",
+    "main.js": "/react-loading-page/static/js/main.16873f57.js",
+    "static/media/phone-img.svg": "/react-loading-page/static/media/phone-img.8e21bc26b07523bc8469526f43c681fb.svg",
+    "static/media/video.jpg": "/react-loading-page/static/media/video.64d1945b2eccfbee4538.jpg",
+    "static/media/img3.jpg": "/react-loading-page/static/media/img3.d3ede4590029bd847ab8.jpg",
+    "static/media/img4.jpg": "/react-loading-page/static/media/img4.43eaa4070d92fd8d311b.jpg",
+    "static/media/img1.jpg": "/react-loading-page/static/media/img1.6372d224c68b2ac0d164.jpg",
+    "static/media/Girl.svg": "/react-loading-page/static/media/Girl.0d597fbbe7346e1f1d7d1d8981f52e7a.svg",
+    "static/media/Group9.png": "/react-loading-page/static/media/Group9.2e71c5e8210051637342.png",
+    "static/media/Providers5.jpg": "/react-loading-page/static/media/Providers5.e8827936a02110cb3671.jpg",
+    "static/media/stars5.svg": "/react-loading-page/static/media/stars5.8124097526f74e09b55fe4a8c1bf4f77.svg",
+    "static/media/Bookevent-img1.png": "/react-loading-page/static/media/Bookevent-img1.807fc31f0d22e3187208.png",
+    "static/media/Providers2.jpg": "/react-loading-page/static/media/Providers2.f8d130575b9dd6f145ae.jpg",
+    "static/media/Providers3.jpg": "/react-loading-page/static/media/Providers3.5db6ffe0866ba1d5155e.jpg",
+    "static/media/Providers6.jpg": "/react-loading-page/static/media/Providers6.ba40b064bafc56010cbe.jpg",
+    "static/media/Providers4.jpg": "/react-loading-page/static/media/Providers4.49765332956ea4d8482b.jpg",
+    "static/media/logo.svg": "/react-loading-page/static/media/logo.20e99157ed6f30bd0d3c30a56a25a1cb.svg",
+    "static/media/Vector9.svg": "/react-loading-page/static/media/Vector9.6b86ceb812cc0de41f4c3b147361b8bf.svg",
+    "static/media/Organization.svg": "/react-loading-page/static/media/Organization.da5af4cce171f5f6576635b64894f79a.svg",
+    "static/media/Vector8.svg": "/react-loading-page/static/media/Vector8.319a1cf2acc7a86633c7b7cc9e536811.svg",
+    "static/media/AppStore.svg": "/react-loading-page/static/media/AppStore.b96e3fba934afd8e69a73e473fdddf7f.svg",
+    "static/media/Talent-owner.svg": "/react-loading-page/static/media/Talent-owner.f73cc102aa50e35c1cb8f09b0af6ed3e.svg",
+    "static/media/Vector.svg": "/react-loading-page/static/media/Vector.1624bf62684f5b4d7d39f62727a8cd34.svg",
+    "static/media/Vector7.svg": "/react-loading-page/static/media/Vector7.57aebb1177c07a9d4b438727bab2e1de.svg",
+    "static/media/Space-owner.svg": "/react-loading-page/static/media/Space-owner.62d98df792b6f6370773c325db65e081.svg",
+    "index.html": "/react-loading-page/index.html",
+    "static/media/Vector10.svg": "/react-loading-page/static/media/Vector10.f1153f2736d27865ce8098ec9603a0cf.svg",
+    "static/media/user.svg": "/react-loading-page/static/media/user.73c014e5d0e22e1abc0536a0f1ec0dc2.svg",
+    "static/media/PlayStore.svg": "/react-loading-page/static/media/PlayStore.52dcfb7a98a2c4f4093766184c8501ff.svg",
+    "static/media/run.svg": "/react-loading-page/static/media/run.7779afa472f2cc3f6d65797b3fa94ad7.svg",
+    "static/media/youtube.svg": "/react-loading-page/static/media/youtube.dd66053b0eb2bb9ee3aa47a39c994877.svg",
+    "static/media/background.svg": "/react-loading-page/static/media/background.34d02b8edef1e0547c15.svg",
+    "main.22968547.css.map": "/react-loading-page/static/css/main.22968547.css.map",
+    "main.16873f57.js.map": "/react-loading-page/static/js/main.16873f57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22968547.css",
+    "static/js/main.16873f57.js"
+  ]
+}
