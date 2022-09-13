@@ -1,0 +1,68 @@
+.ContactUs-box {
+  background-image: url(../../assets/background.svg);
+  height: 211px;
+  margin-bottom: 255px;
+}
+
+.ContactUs-box h5 {
+  color: #fff;
+  margin-top: 33px;
+}
+
+.ContactUs-box p {
+  color: #7aa4df;
+  margin-top: 18px;
+}
+
+.ContactUs-box button {
+  color: #003887;
+  margin-top: 13px;
+  border-radius: 22px;
+  font-weight: 400;
+  font-size: 17px;
+  width: 155px;
+  height: 43px;
+}
+
+.ContactUs-box button:hover {
+  color: #ffff;
+  background-color: #003887;
+}
+
+.ContactUs-box img {
+  height: 397px;
+  margin-left: 24%;
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  .ContactUs-box .Content {
+    margin: 20px 0px;
+  }
+
+  .ContactUs-box {
+    margin: 20px 0px;
+  }
+
+  .ContactUs-box h5 {
+    color: #fff;
+    margin-top: 33px;
+    font-size: 15px;
+  }
+
+  .ContactUs-box p {
+    font-size: 13px;
+  }
+
+  .ContactUs-box img {
+    height: 234px;
+    margin-left: 0%;
+    text-align: center;
+  }
+
+  .ContactUs-box button {
+    font-size: 17px;
+    width: 131px;
+    height: 43px;
+  }
+}

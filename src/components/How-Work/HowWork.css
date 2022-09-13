@@ -1,0 +1,99 @@
+.How-Work-box {
+  background-color: #f8f8f8;
+  width: 50%;
+  margin: 0 auto;
+  padding: 5px 20px 15px 10px;
+  margin-top: -20px;
+  position: relative;
+}
+
+.HowWork .How-Work-box img {
+  display: block;
+  margin: 0 auto;
+  height: 420px;
+  margin-top: 20px;
+}
+
+.HowWork .How-Work-box .youtube-img {
+  display: block;
+  margin: 0 auto;
+  height: 35px;
+  float: left;
+  
+}
+.HowWork .How-Work-box .run {
+  position:absolute;
+  top: 180px;
+  left: 280px;
+  height: 80px;
+  }
+
+
+
+.HowWork h1 span {
+  color: #37aee2;
+}
+
+.HowWork .How-Work-box h2 {
+  color: #000000;
+  font-size: 20px;
+  margin-top: 10px;
+  font-weight: 400;
+}
+
+.HowWork .How-Work-box p {
+  color: #575757;
+  margin-top: 10px;
+  font-weight: 400;
+}
+
+.HowWork .How-Work-box span {
+  color: #9697ae;
+  font-size: 20px;
+  margin-left: 15px;
+  display: inline-block;
+}
+
+@media (max-width: 767px) {
+  .HowWork .How-Work-box img {
+ 
+    margin:40px;
+  }
+
+  section h1 {
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.How-Work-box {
+
+   margin: 0 ; 
+
+}
+.HowWork .How-Work-box img {
+  margin: 0px; 
+}
+
+
+.How-Work-box {
+  margin: 0;
+}
+
+.How-Work-box {
+  width: 100%;
+  text-align: center;
+
+}
+
+.HowWork .How-Work-box .youtube-img {
+  float:none;
+}
+
+.HowWork .How-Work-box .run {
+  position:absolute;
+  top: 180px;
+  left: 200px;
+  height: 80px;
+  }
+
+
+}

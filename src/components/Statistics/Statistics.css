@@ -1,0 +1,124 @@
+.Statistics {
+  margin-top: 40px;
+  margin-bottom: 63px;
+  overflow: hidden;
+}
+
+.Statistics .Container {
+  overflow: hidden;
+}
+
+.Statistics .section {
+  width: 255px;
+  height: 88px;
+  margin-right: 111px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.Statistics .section.num {
+  text-align: center;
+  background-color: #003887;
+  color: #fff;
+  padding-top: 10px;
+  font-size: 33px;
+  margin-left: -20px;
+}
+
+.Statistics p {
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+}
+
+.Statistics .appStore {
+  background-color: #fff;
+  border: 3px solid #003887;
+  line-height: 80px;
+  color: #003887;
+  margin-left: 23px;
+  margin-top: 25px;
+}
+.Statistics img {
+  height: 25px;
+  margin-right: 10px;
+}
+
+.Statistics h5 {
+  margin-bottom: 22px;
+  margin-left: 22px;
+  color: #003887;
+  font-weight: 400;
+}
+
+.Statistics-text .text-left {
+  color: #003887 !important;
+  font-size: 22px;
+}
+
+.Statistics .h5 {
+  margin-left: -18px;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .Statistics .section {
+    margin-right: 0px;
+
+    text-align: center;
+  }
+
+  .Statistics .section.num {
+    text-align: center;
+
+    margin-left: 0px;
+  }
+
+  .Statistics .appStore {
+    margin-left: 0px;
+    margin-top: 25px;
+  }
+  .Statistics h5 {
+    margin-left: 0px;
+    text-align: center;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 1000px) {
+  .Statistics .section {
+    margin-right: 0px;
+
+    text-align: center;
+  }
+
+  .Statistics .section.num {
+    text-align: center;
+
+    margin-left: 0px;
+  }
+
+  .Statistics .appStore {
+    margin-left: 0px;
+    margin-top: 25px;
+  }
+  .Statistics h5 {
+    margin-left: 0px;
+  }
+}
+
+@media (min-width: 900px) and (max-width: 1199px) {
+  .Statistics .section {
+    width: 229px;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+}

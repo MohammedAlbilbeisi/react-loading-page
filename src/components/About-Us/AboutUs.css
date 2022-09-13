@@ -1,0 +1,19 @@
+.AboutUs {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.AboutUs h1 {
+  font-size: 28px;
+  font-weight: 500;
+}
+
+.AboutUs p {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.AboutUs span {
+  color: #37aee2;
+  font-weight: 400;
+}

@@ -1,0 +1,84 @@
+.Header {
+  margin-top: 30px;
+  overflow: hidden;
+}
+.Header span {
+  color: #37aee2;
+}
+.Header .Container {
+  background-color: rgba(144, 154, 170, 0.15);
+  padding-top: 44px;
+  padding-left: 55px;
+}
+.Header img {
+  width: 586px;
+  height: 470px;
+  padding-right: 190px;
+}
+.Header h1 {
+  font-size: 41px;
+  color: #003887;
+  margin-top: 55px;
+}
+
+.Header p {
+  margin-top: 70px;
+  color: #9697ae;
+}
+
+.Header button {
+  width: 180px;
+  height: 50px;
+  margin-top: 110px;
+  background-color: rgba(144, 154, 170, 0.15);
+  color: #003887;
+  margin-left: 5px;
+  border-radius: 15px;
+  border-color: #003887;
+}
+
+.Header button.get-started,
+.Header button:hover {
+  background-color: #003887;
+  color: #fff;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .Header h1 {
+    font-size: 24px;
+  }
+
+  .Header button {
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+  .Statistics .section {
+    margin: 0 auto !important;
+    margin-bottom: 10px !important;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 1000px) {
+  .Header button {
+    width: 170px;
+  }
+
+  .Header h1 {
+    font-size: 24px;
+  }
+
+  .Statistics .h5,
+  .Statistics h5 {
+    text-align: center !important;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+}
+
+@media only screen and (min-width: 992px) {
+}
+
+@media only screen and (min-width: 1200px) {
+}

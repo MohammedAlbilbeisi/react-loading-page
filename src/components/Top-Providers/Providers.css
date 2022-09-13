@@ -1,0 +1,35 @@
+.box {
+background-color: #f8f8f8;
+height: 190px;
+padding-top: 20px;
+width: 100%;
+margin-bottom: 30px;
+text-align: center;
+border-radius: 22px;
+}
+
+section {
+margin-bottom: 155px;
+}
+
+.box img:first-child {
+border-radius: 50%;
+height: 44px;
+width: 44px;
+text-align: center;
+margin: auto;
+}
+
+.box :nth-child(3) {
+height: 15px;
+}
+
+section h1 {
+text-align: center;
+margin-bottom: 50px;
+}
+
+section p {
+color: #7B8389;
+font-weight: 400;
+}

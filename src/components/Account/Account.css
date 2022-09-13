@@ -1,0 +1,129 @@
+.Account .container {
+  background-color: #f8f8f8;
+  border-radius: 15px;
+  padding-top: 4%;
+  height: 155px;
+  margin-bottom: 20px;
+}
+
+.Account button {
+  background-color: #003887;
+  color: #ffff;
+  width: 255px;
+  height: 60px;
+  border-radius: 10px;
+}
+
+.Account span:first-child {
+  display: inline-block;
+  font-size: 20px;
+
+  color: #003887;
+  font-weight: 400;
+  margin-top: 15px;
+}
+
+.Account span img {
+  height: 40px;
+  float: left;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+
+.Account-type section {
+  background-color: #f8f8f8;
+  margin-bottom: 111px;
+  height: 244px;
+}
+
+.Account-type img {
+  margin-top: -20px;
+  margin-bottom: 20px;
+}
+
+.Account-type .content {
+  margin: auto;
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 40px;
+}
+
+.Account-type .content p {
+  color: #0f0b47;
+}
+
+.Account-type .col-md-4.no-padding {
+  padding: 0px;
+}
+
+.Account-type button {
+  width: 90%;
+  color: #fff;
+  height: 55px;
+  border-radius: 10px;
+}
+
+.Account-type .Organization button {
+  background-color: #4ba5ff;
+  margin-top: 10px;
+}
+
+.Account-type .Spaceowner button {
+  background-color: #41cfbf;
+}
+
+.Account-type .Talentowner button {
+  background-color: #f7a92b;
+}
+
+@media (min-width: 288px) and (max-width: 767px) {
+  .Account button {
+    width: 133px;
+    height: 38px;
+    display: block;
+    margin: 20px auto;
+  }
+
+  .Account span img {
+    height: 22px;
+    margin-right: 0px;
+    margin-top: 21px;
+  }
+
+  .Account span:first-child {
+    display: inline-block;
+    font-size: 13px;
+    color: #003887;
+    font-weight: 400;
+    margin-top: 24px;
+    margin-left: 0px;
+  }
+
+  .Account .content {
+    width: 40%;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 990px) {
+  .Account span img {
+    height: 27px;
+    float: left;
+    margin-right: 0px;
+    margin-top: 21px;
+  }
+
+  .Account button {
+    width: 168px;
+    height: 60px;
+  }
+
+  .Account span:first-child {
+    display: inline-block;
+    font-size: 15px;
+    color: #003887;
+    font-weight: 400;
+    margin-top: 27px;
+    margin-left: 21px;
+  }
+}
